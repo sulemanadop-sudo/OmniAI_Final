@@ -1,0 +1,21 @@
+{
+  "name": "OmniAI Toolkit",
+  "short_name": "OmniAI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f111a",
+  "theme_color": "#8b5cf6",
+  "description": "Premium All in one AI Hub for Resumes, Scripts and Emails",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8144/8144369.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8144/8144369.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
